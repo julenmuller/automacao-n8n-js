@@ -1,1 +1,1 @@
-# automacao-n8n-js
+# Automation using n8n and JS
